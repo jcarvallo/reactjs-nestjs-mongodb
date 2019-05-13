@@ -3,7 +3,7 @@ import { Button, Modal, ModalHeader, ModalBody, ModalFooter, Form, FormGroup, La
 import { toast } from 'react-toastify';
 import DatePicker from 'react-datepicker';
 import moment from 'moment';
-import '../index.css'
+
 
 import UserService from '../services/user.service';
 
