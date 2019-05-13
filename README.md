@@ -13,7 +13,7 @@ Posicionarse en la carpeta /backend y ejecutar por consola:
 
 ### `npm run start:dev`
 
-Nota: el servidor se ejecutara en el http://localhost:5000/
+**Nota: el servidor se ejecutará en el http://localhost:5000/**
 
 ## Instalar Frontend
 
@@ -25,6 +25,6 @@ Posicionarse en la carpeta /frontend y ejecutar por consola:
 
 ### `npm start`
 
-Nota: el servidor se ejecutara en el http://localhost:3000/
+**Nota: el servidor se ejecutará en el http://localhost:3000/**
 
 
