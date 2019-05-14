@@ -5,9 +5,9 @@ MongoDB (https://www.mongodb.com/download-center/community)
 
 ## Instalar Backend (Nestjs)
 
-Posicionarse en la carpeta /backend y ejecutar por consola `npm i` o `npm install`.  Este comando instalará las dependencias del backend:
+Posicionarse en la carpeta /backend y ejecutar por consola `npm install` o su abreviación `npm i`.  Este comando instalará las dependencias del backend:
 
-### `npm i`
+### `npm install`
 
 Estando en la carpeta /backend, ejecutar por consola `npm run start:dev` para correr el servidor en ambiente de desarrollo:
 
@@ -17,9 +17,9 @@ Estando en la carpeta /backend, ejecutar por consola `npm run start:dev` para co
 
 ## Instalar Frontend (React)
 
-Posicionarse en la carpeta /frontend y ejecutar por consola `npm i` o `npm install`. Este comando instalará las dependencias del frontend:
+Posicionarse en la carpeta /frontend y ejecutar por consola `npm install` o su abreviación `npm i`. Este comando instalará las dependencias del frontend:
 
-### `npm i`
+### `npm install`
 
 Estando en la carpeta /frontend, ejecutar por consola `npm start` para correr el cliente del proyecto, en ambiente de desarrollo:
 
