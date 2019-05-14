@@ -3,28 +3,35 @@
 Nodejs (https://nodejs.org/en/download/)<br>
 MongoDB (https://www.mongodb.com/download-center/community)
 
-## Instalar Backend
+## Instalar Backend (Nestjs)
 
 Posicionarse en la carpeta /backend y ejecutar por consola:
 
 ### `npm i`
 
-Posicionarse en la carpeta /backend y ejecutar por consola:
+Estando en la carpeta /backend, ejecutar por consola:
 
 ### `npm run start:dev`
 
 **Nota: el servidor se ejecutará en el http://localhost:5000/**
 
-## Instalar Frontend
+## Instalar Frontend (React)
 
 Posicionarse en la carpeta /frontend y ejecutar por consola:
 
 ### `npm i`
 
-Posicionarse en la carpeta /frontend y ejecutar por consola:
+Estando en la carpeta /frontend, ejecutar por consola:
 
 ### `npm start`
 
 **Nota: el servidor se ejecutará en el http://localhost:3000/**
 
+## Apreder mas
+
+Aprende sobre React en su [Documentación](https://es.reactjs.org/)
+
+Puedes aprender sobre Nestjs en su [Documentación](https://docs.nestjs.com/)
+
+Aprende sobre MongoDB en su [Documentación](https://docs.mongodb.com/?_ga=2.81097054.833171311.1557835363-1879448236.1557835363)
 
